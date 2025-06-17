@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aigile-era-market-mcp-serkan-badge.png)](https://mseep.ai/app/aigile-era-market-mcp-serkan)
+
 # Market Fiyatı MCP Server
 
 Market Fiyatı API'si için Model Context Protocol (MCP) server ve Gemini AI entegrasyonu.
